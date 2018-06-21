@@ -8,7 +8,8 @@
     "dev": "gulp",
     "production": "gulp --production"
   },
-  "author": "Jefferson Santos",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "admin-lte": "2.3.11",
@@ -25,6 +26,7 @@
     "gulp-htmlmin": "3.0.0",
     "gulp-uglify": "3.0.0",
     "gulp-uglifycss": "1.0.8",
+    "gulp-util": "3.0.8",
     "gulp-watch": "4.3.11",
     "gulp-webserver": "0.9.1",
     "run-sequence": "2.2.0"
